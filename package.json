@@ -1,0 +1,14 @@
+{
+  "name": "dev_tinder",
+  "version": "1.0.0",
+  "description": "Dev Tinder application for connecting developers",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "author": "Sandeep Pancholi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
